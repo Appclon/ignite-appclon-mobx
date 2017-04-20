@@ -1,0 +1,669 @@
+{
+	"tracks": {
+		"href": "https://api.spotify.com/v1/search?query=ignite&type=track&offset=0&limit=10",
+		"items": [{
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+					},
+					"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+					"id": "6pBNfggcZZDCmb0p92OnGn",
+					"name": "Chase Rice",
+					"type": "artist",
+					"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0"
+				},
+				"href": "https://api.spotify.com/v1/albums/2d3Oldg5aHbR601FdNk6b0",
+				"id": "2d3Oldg5aHbR601FdNk6b0",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/30d1227bd9a3c532694a03aeeb142e42d1b8fb1d",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/31451b7cc49cde8cb6547e9f69444fbcdabcf816",
+					"width": 64
+				}],
+				"name": "Ignite the Night (Party Edition)",
+				"type": "album",
+				"uri": "spotify:album:2d3Oldg5aHbR601FdNk6b0"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+				},
+				"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+				"id": "6pBNfggcZZDCmb0p92OnGn",
+				"name": "Chase Rice",
+				"type": "artist",
+				"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 214949,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "QMDR71400008"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/6C2XDnr9B6obGMVhHS1Nmo"
+			},
+			"href": "https://api.spotify.com/v1/tracks/6C2XDnr9B6obGMVhHS1Nmo",
+			"id": "6C2XDnr9B6obGMVhHS1Nmo",
+			"name": "Gonna Wanna Tonight",
+			"popularity": 70,
+			"preview_url": "https://p.scdn.co/mp3-preview/9d403794a95ec626481bbf7285c4c2d5068d71de?cid=null",
+			"track_number": 8,
+			"type": "track",
+			"uri": "spotify:track:6C2XDnr9B6obGMVhHS1Nmo"
+		}, {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+					},
+					"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+					"id": "6pBNfggcZZDCmb0p92OnGn",
+					"name": "Chase Rice",
+					"type": "artist",
+					"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0"
+				},
+				"href": "https://api.spotify.com/v1/albums/2d3Oldg5aHbR601FdNk6b0",
+				"id": "2d3Oldg5aHbR601FdNk6b0",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/30d1227bd9a3c532694a03aeeb142e42d1b8fb1d",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/31451b7cc49cde8cb6547e9f69444fbcdabcf816",
+					"width": 64
+				}],
+				"name": "Ignite the Night (Party Edition)",
+				"type": "album",
+				"uri": "spotify:album:2d3Oldg5aHbR601FdNk6b0"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+				},
+				"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+				"id": "6pBNfggcZZDCmb0p92OnGn",
+				"name": "Chase Rice",
+				"type": "artist",
+				"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+			}, {
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda"
+				},
+				"href": "https://api.spotify.com/v1/artists/5JhkYX4FCP6FRmxrGEQoda",
+				"id": "5JhkYX4FCP6FRmxrGEQoda",
+				"name": "Macy Maloy",
+				"type": "artist",
+				"uri": "spotify:artist:5JhkYX4FCP6FRmxrGEQoda"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 241240,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "QMDR71400013"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/1CoOHJAHtKEDnUBrp3nKAB"
+			},
+			"href": "https://api.spotify.com/v1/tracks/1CoOHJAHtKEDnUBrp3nKAB",
+			"id": "1CoOHJAHtKEDnUBrp3nKAB",
+			"name": "Ride (feat. Macy Maloy)",
+			"popularity": 67,
+			"preview_url": "https://p.scdn.co/mp3-preview/1a2bd7dcf43303fedceeb74dc9bc18c4cdc8f726?cid=null",
+			"track_number": 18,
+			"type": "track",
+			"uri": "spotify:track:1CoOHJAHtKEDnUBrp3nKAB"
+		}, {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+					},
+					"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+					"id": "6pBNfggcZZDCmb0p92OnGn",
+					"name": "Chase Rice",
+					"type": "artist",
+					"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0"
+				},
+				"href": "https://api.spotify.com/v1/albums/2d3Oldg5aHbR601FdNk6b0",
+				"id": "2d3Oldg5aHbR601FdNk6b0",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/30d1227bd9a3c532694a03aeeb142e42d1b8fb1d",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/31451b7cc49cde8cb6547e9f69444fbcdabcf816",
+					"width": 64
+				}],
+				"name": "Ignite the Night (Party Edition)",
+				"type": "album",
+				"uri": "spotify:album:2d3Oldg5aHbR601FdNk6b0"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+				},
+				"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+				"id": "6pBNfggcZZDCmb0p92OnGn",
+				"name": "Chase Rice",
+				"type": "artist",
+				"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 220454,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "QMDR71400006"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/1MTEImRXVeL8VTDSDbgW6V"
+			},
+			"href": "https://api.spotify.com/v1/tracks/1MTEImRXVeL8VTDSDbgW6V",
+			"id": "1MTEImRXVeL8VTDSDbgW6V",
+			"name": "Carolina Can",
+			"popularity": 66,
+			"preview_url": "https://p.scdn.co/mp3-preview/d86ed61943dec3adeac4c86562939c0d6ade94a0?cid=null",
+			"track_number": 6,
+			"type": "track",
+			"uri": "spotify:track:1MTEImRXVeL8VTDSDbgW6V"
+		}, {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+					},
+					"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+					"id": "6pBNfggcZZDCmb0p92OnGn",
+					"name": "Chase Rice",
+					"type": "artist",
+					"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0"
+				},
+				"href": "https://api.spotify.com/v1/albums/2d3Oldg5aHbR601FdNk6b0",
+				"id": "2d3Oldg5aHbR601FdNk6b0",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/30d1227bd9a3c532694a03aeeb142e42d1b8fb1d",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/31451b7cc49cde8cb6547e9f69444fbcdabcf816",
+					"width": 64
+				}],
+				"name": "Ignite the Night (Party Edition)",
+				"type": "album",
+				"uri": "spotify:album:2d3Oldg5aHbR601FdNk6b0"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+				},
+				"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+				"id": "6pBNfggcZZDCmb0p92OnGn",
+				"name": "Chase Rice",
+				"type": "artist",
+				"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 190587,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "QMDR70000001"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/3rh2f6nqswpfDN3Ef6Bi5J"
+			},
+			"href": "https://api.spotify.com/v1/tracks/3rh2f6nqswpfDN3Ef6Bi5J",
+			"id": "3rh2f6nqswpfDN3Ef6Bi5J",
+			"name": "Ready Set Roll",
+			"popularity": 65,
+			"preview_url": "https://p.scdn.co/mp3-preview/be431efd9681ab1836b2c12de7019f741f4f2ab3?cid=null",
+			"track_number": 1,
+			"type": "track",
+			"uri": "spotify:track:3rh2f6nqswpfDN3Ef6Bi5J"
+		}, {
+			"album": {
+				"album_type": "single",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+					},
+					"href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+					"id": "7vk5e3vY1uw9plTHJAMwjN",
+					"name": "Alan Walker",
+					"type": "artist",
+					"uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0bf7qL7vfbUOpvvA73R2Wl"
+				},
+				"href": "https://api.spotify.com/v1/albums/0bf7qL7vfbUOpvvA73R2Wl",
+				"id": "0bf7qL7vfbUOpvvA73R2Wl",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/35e55f1a595e45bfe89bc4846645e51e2171597c",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/0d31d018923f8b32b52fce87c7852b6efc7ab74d",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/70e7d6010da6127ce421f771c781181ac6ce96eb",
+					"width": 64
+				}],
+				"name": "Ignite (Instrumental)",
+				"type": "album",
+				"uri": "spotify:album:0bf7qL7vfbUOpvvA73R2Wl"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+				},
+				"href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+				"id": "7vk5e3vY1uw9plTHJAMwjN",
+				"name": "Alan Walker",
+				"type": "artist",
+				"uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+			}, {
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+				},
+				"href": "https://api.spotify.com/v1/artists/6pWcSL9wSJZQ9ne0TnhdWr",
+				"id": "6pWcSL9wSJZQ9ne0TnhdWr",
+				"name": "K-391",
+				"type": "artist",
+				"uri": "spotify:artist:6pWcSL9wSJZQ9ne0TnhdWr"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 210306,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "NOG841707010"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/31odF1W48AxUG6nPEHQXyg"
+			},
+			"href": "https://api.spotify.com/v1/tracks/31odF1W48AxUG6nPEHQXyg",
+			"id": "31odF1W48AxUG6nPEHQXyg",
+			"name": "Ignite - Instrumental",
+			"popularity": 62,
+			"preview_url": "https://p.scdn.co/mp3-preview/74b07880c94a853ad16dfcd32d2569160345e715?cid=null",
+			"track_number": 1,
+			"type": "track",
+			"uri": "spotify:track:31odF1W48AxUG6nPEHQXyg"
+		}, {
+			"album": {
+				"album_type": "single",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+					},
+					"href": "https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq",
+					"id": "2qxJFvFYMEDqd7ui6kSAcq",
+					"name": "Zedd",
+					"type": "artist",
+					"uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+				}],
+				"available_markets": ["CA", "MX", "US"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/58s3pP6qO3ecMj6dtdSpPl"
+				},
+				"href": "https://api.spotify.com/v1/albums/58s3pP6qO3ecMj6dtdSpPl",
+				"id": "58s3pP6qO3ecMj6dtdSpPl",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/8e7fa3bf14edb55d15d98404eb215be5491b29e4",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/3a4403173a9fef5c67226c55a48423e83964e8e7",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/98aea96531e0315158fe4155a9a0af199cd69001",
+					"width": 64
+				}],
+				"name": "Ignite (2016 League Of Legends World Championship)",
+				"type": "album",
+				"uri": "spotify:album:58s3pP6qO3ecMj6dtdSpPl"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+				},
+				"href": "https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq",
+				"id": "2qxJFvFYMEDqd7ui6kSAcq",
+				"name": "Zedd",
+				"type": "artist",
+				"uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+			}],
+			"available_markets": ["CA", "MX", "US"],
+			"disc_number": 1,
+			"duration_ms": 195466,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "USUM71609202"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/39rqDP2s2hN1JtXptyeM3u"
+			},
+			"href": "https://api.spotify.com/v1/tracks/39rqDP2s2hN1JtXptyeM3u",
+			"id": "39rqDP2s2hN1JtXptyeM3u",
+			"name": "Ignite - 2016 League Of Legends World Championship",
+			"popularity": 59,
+			"preview_url": "https://p.scdn.co/mp3-preview/d5b9eff5f66760570d9346af218c3040f39b1719?cid=null",
+			"track_number": 1,
+			"type": "track",
+			"uri": "spotify:track:39rqDP2s2hN1JtXptyeM3u"
+		}, {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC"
+					},
+					"href": "https://api.spotify.com/v1/artists/6IDgN356to8svgrWLUAIoC",
+					"id": "6IDgN356to8svgrWLUAIoC",
+					"name": "Anki",
+					"type": "artist",
+					"uri": "spotify:artist:6IDgN356to8svgrWLUAIoC"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/3a0b6iJl830EdKhckSbvoy"
+				},
+				"href": "https://api.spotify.com/v1/albums/3a0b6iJl830EdKhckSbvoy",
+				"id": "3a0b6iJl830EdKhckSbvoy",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/91984b19aee8bdb5401f0b3c01a6f0e3f92a2e14",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/d64d6f1c1c07f27c2de386b1f22a65f52c757d75",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/aa6a137a986e211e0051e5a8500c67af5db54eeb",
+					"width": 64
+				}],
+				"name": "Circadian",
+				"type": "album",
+				"uri": "spotify:album:3a0b6iJl830EdKhckSbvoy"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC"
+				},
+				"href": "https://api.spotify.com/v1/artists/6IDgN356to8svgrWLUAIoC",
+				"id": "6IDgN356to8svgrWLUAIoC",
+				"name": "Anki",
+				"type": "artist",
+				"uri": "spotify:artist:6IDgN356to8svgrWLUAIoC"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 245600,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "QZS1Z1640578"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/4XZd86cftYEq50Ct0PpiwC"
+			},
+			"href": "https://api.spotify.com/v1/tracks/4XZd86cftYEq50Ct0PpiwC",
+			"id": "4XZd86cftYEq50Ct0PpiwC",
+			"name": "Ignite",
+			"popularity": 55,
+			"preview_url": "https://p.scdn.co/mp3-preview/ab9093b156ef23c065b530e677520e60daeb616d?cid=null",
+			"track_number": 4,
+			"type": "track",
+			"uri": "spotify:track:4XZd86cftYEq50Ct0PpiwC"
+		}, {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+					},
+					"href": "https://api.spotify.com/v1/artists/4QDvXnbmw1znkqkK1119Fc",
+					"id": "4QDvXnbmw1znkqkK1119Fc",
+					"name": "RKCB",
+					"type": "artist",
+					"uri": "spotify:artist:4QDvXnbmw1znkqkK1119Fc"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6IBBdhCvLtS8yDtNxvhZ7C"
+				},
+				"href": "https://api.spotify.com/v1/albums/6IBBdhCvLtS8yDtNxvhZ7C",
+				"id": "6IBBdhCvLtS8yDtNxvhZ7C",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/8fa0339e2bb77006843b6c8d01919ad2536e4385",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/111151d2ce4cb1903e289e21adedc43d1f60c471",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/59ec72f2cea8682c976bca0d1ab28e9f88170740",
+					"width": 64
+				}],
+				"name": "Short Films",
+				"type": "album",
+				"uri": "spotify:album:6IBBdhCvLtS8yDtNxvhZ7C"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+				},
+				"href": "https://api.spotify.com/v1/artists/4QDvXnbmw1znkqkK1119Fc",
+				"id": "4QDvXnbmw1znkqkK1119Fc",
+				"name": "RKCB",
+				"type": "artist",
+				"uri": "spotify:artist:4QDvXnbmw1znkqkK1119Fc"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 218250,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "TCACK1525375"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/6qzgjMbDSx1HI5FEIMJ4vw"
+			},
+			"href": "https://api.spotify.com/v1/tracks/6qzgjMbDSx1HI5FEIMJ4vw",
+			"id": "6qzgjMbDSx1HI5FEIMJ4vw",
+			"name": "Ignite",
+			"popularity": 52,
+			"preview_url": "https://p.scdn.co/mp3-preview/7c95ddcfc75fb125f01b5cd616644f0ee9bdded6?cid=null",
+			"track_number": 4,
+			"type": "track",
+			"uri": "spotify:track:6qzgjMbDSx1HI5FEIMJ4vw"
+		}, {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+					},
+					"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+					"id": "6pBNfggcZZDCmb0p92OnGn",
+					"name": "Chase Rice",
+					"type": "artist",
+					"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0"
+				},
+				"href": "https://api.spotify.com/v1/albums/2d3Oldg5aHbR601FdNk6b0",
+				"id": "2d3Oldg5aHbR601FdNk6b0",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/30d1227bd9a3c532694a03aeeb142e42d1b8fb1d",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/31451b7cc49cde8cb6547e9f69444fbcdabcf816",
+					"width": 64
+				}],
+				"name": "Ignite the Night (Party Edition)",
+				"type": "album",
+				"uri": "spotify:album:2d3Oldg5aHbR601FdNk6b0"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+				},
+				"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+				"id": "6pBNfggcZZDCmb0p92OnGn",
+				"name": "Chase Rice",
+				"type": "artist",
+				"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 179076,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "QMDR70000006"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/4LGlMGHwJGY8tUXQfZWUzm"
+			},
+			"href": "https://api.spotify.com/v1/tracks/4LGlMGHwJGY8tUXQfZWUzm",
+			"id": "4LGlMGHwJGY8tUXQfZWUzm",
+			"name": "How She Rolls",
+			"popularity": 53,
+			"preview_url": "https://p.scdn.co/mp3-preview/69a0227791db77101ba3d2a57c67dc0434fff68d?cid=null",
+			"track_number": 13,
+			"type": "track",
+			"uri": "spotify:track:4LGlMGHwJGY8tUXQfZWUzm"
+		}, {
+			"album": {
+				"album_type": "album",
+				"artists": [{
+					"external_urls": {
+						"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+					},
+					"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+					"id": "6pBNfggcZZDCmb0p92OnGn",
+					"name": "Chase Rice",
+					"type": "artist",
+					"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+				}],
+				"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0"
+				},
+				"href": "https://api.spotify.com/v1/albums/2d3Oldg5aHbR601FdNk6b0",
+				"id": "2d3Oldg5aHbR601FdNk6b0",
+				"images": [{
+					"height": 640,
+					"url": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+					"width": 640
+				}, {
+					"height": 300,
+					"url": "https://i.scdn.co/image/30d1227bd9a3c532694a03aeeb142e42d1b8fb1d",
+					"width": 300
+				}, {
+					"height": 64,
+					"url": "https://i.scdn.co/image/31451b7cc49cde8cb6547e9f69444fbcdabcf816",
+					"width": 64
+				}],
+				"name": "Ignite the Night (Party Edition)",
+				"type": "album",
+				"uri": "spotify:album:2d3Oldg5aHbR601FdNk6b0"
+			},
+			"artists": [{
+				"external_urls": {
+					"spotify": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+				},
+				"href": "https://api.spotify.com/v1/artists/6pBNfggcZZDCmb0p92OnGn",
+				"id": "6pBNfggcZZDCmb0p92OnGn",
+				"name": "Chase Rice",
+				"type": "artist",
+				"uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn"
+			}],
+			"available_markets": ["AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY"],
+			"disc_number": 1,
+			"duration_ms": 196130,
+			"explicit": false,
+			"external_ids": {
+				"isrc": "QMDR70000004"
+			},
+			"external_urls": {
+				"spotify": "https://open.spotify.com/track/3nd43CEbT11MUQVIh7GGiL"
+			},
+			"href": "https://api.spotify.com/v1/tracks/3nd43CEbT11MUQVIh7GGiL",
+			"id": "3nd43CEbT11MUQVIh7GGiL",
+			"name": "Look at My Truck",
+			"popularity": 53,
+			"preview_url": "https://p.scdn.co/mp3-preview/67d9b05f0676cdd9b17c0b0c09f975f71989fa6c?cid=null",
+			"track_number": 9,
+			"type": "track",
+			"uri": "spotify:track:3nd43CEbT11MUQVIh7GGiL"
+		}],
+		"limit": 10,
+		"next": "https://api.spotify.com/v1/search?query=ignite&type=track&offset=10&limit=10",
+		"offset": 0,
+		"previous": null,
+		"total": 2733
+	}
+}

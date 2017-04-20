@@ -1,0 +1,24 @@
+import React from 'react'
+import { ScrollView, Text } from 'react-native'
+
+// Styles
+import styles from './Styles/<%= props.name %>Style'
+
+class <%= props.name %> extends React.Component {
+
+  // constructor (props) {
+  //   super(props)
+  //   this.state = {}
+  // }
+
+  render () {
+    return (
+      <ScrollView style={styles.container}>
+        <Text><%= props.name %> Container</Text>
+      </ScrollView>
+    )
+  }
+}
+
+
+export default <%= props.name %>

@@ -1,0 +1,8 @@
+{
+  "generators": [
+    "component",
+    "container",
+    "listview",
+    "screen"
+  ]
+}
