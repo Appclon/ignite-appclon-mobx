@@ -70,7 +70,6 @@ export default class LaunchScreen extends React.Component {
           </View>
 
           <View style={styles.section} >
-            <Image source={Images.ready} />
             <Text style={styles.sectionText}>
               Base Boilerplate integrating Ignite with MobX and React Navigation.
             </Text>
