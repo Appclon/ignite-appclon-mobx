@@ -79,7 +79,7 @@ async function install (context) {
 
   const name = parameters.third
   const spinner = print
-    .spin(`using the ${print.colors.green('Appclon')} boilerplate`)
+    .spin(`using the ${print.colors.red('Appclon')} boilerplate`)
     .succeed()
 
   // attempt to install React Native or die trying

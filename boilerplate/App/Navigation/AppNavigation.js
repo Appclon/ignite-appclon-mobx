@@ -10,17 +10,15 @@ import styles from './Styles/NavigationStyles'
 const PrimaryNav = StackNavigator({
   LaunchScreen: {
     screen: LaunchScreen,
-    navigationOptions: {
-      header: {
-        visible: false,
-      }
-    }
+    navigationOptions: () => ({
+			headerVisible: false
+		})
   },
   LoginScreen: {
     screen: LoginScreen,
-    navigationOptions: {
-      title: 'Login'
-    }
+    navigationOptions: () => ({
+			title: 'Login'
+		})
   },
   MusicScreen: {
     screen: MusicScreen,
@@ -28,18 +26,13 @@ const PrimaryNav = StackNavigator({
 }, {
   // Default config for all screens
   headerMode:'screen',
-  navigationOptions: {
-    header: ({state}) => {
-      return {title: state.params && state.params.title}
-    },
-    header: ({state}) => {
-      return {
-        title: state.params && state.params.title,
-        tintColor: Colors.fire,
-        style: styles.header
-      }
-    }
-  }
+  navigationOptions: ({ navigation }) => ({
+    title: navigation.state && navigation.state.params && navigation.state.params.title,
+    headerTintColor: Colors.fire,
+    headerStyle: styles.header
+
+  })
+
 })
 
 export default PrimaryNav

@@ -2,9 +2,9 @@
   "name": "ignite-appclon-mobx",
   "description": "appclon mobx + react-navigation boilerplate",
   "license": "MIT",
-  "repository": "infinitered/ignite",
-  "homepage": "https://github.com/infinitered/ignite",
-  "version": "0.0.5",
+  "repository": "Appclon/ignite-appclon-mobx",
+  "homepage": "https://github.com/Appclon/ignite-appclon-mobx",
+  "version": "0.0.2",
   "files": [
     "boilerplate",
     "commands",
@@ -18,7 +18,7 @@
   "author": {
     "name": "paolo-mosca",
     "email": "hola@appclon.es",
-    "url": "https://github.com/infinitered/ignite"
+    "url": "https://github.com/Appclon/ignite-appclon-mobx"
   },
   "scripts": {
     "lint": "standard",
